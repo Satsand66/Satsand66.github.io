@@ -45,7 +45,7 @@ main {
 
 /* Text Box Styling */
 .text-box {
-    background: #ffffff;  /* White box for contrast */
+    background: #ff9800;
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
@@ -59,6 +59,7 @@ main {
 
 .text-box p {
     font-size: 18px;
+    font-family: Times New Roman;
     color: #00FF00;
     line-height: 1.8;
     text-align: justify;
