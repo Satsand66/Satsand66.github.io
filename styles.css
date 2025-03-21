@@ -60,14 +60,14 @@ main {
 
 .text-box p {
     font-size: 18px;
-    color: #444;
+    color: #00FF00;
     line-height: 1.8;
     text-align: justify;
 }
 
 /* Footer */
 footer {
-    background: #ff9800;  /* Matching the header color */
+    background: #E0B0FF;  /* Matching the header color */
     color: white;
     text-align: center;
     padding: 15px 0;
